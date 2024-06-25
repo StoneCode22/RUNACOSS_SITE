@@ -1,0 +1,14 @@
+*Class Project.*
+*Design a website for RUNACOSS that contains 3 web pages. *
+
+Page 1: Home page 
+  This page displays the name of the association and a lot of information about the association.
+  (In your design, Ensure the use of at least 70% of HTML tags, ordered and unordered lists, menu bar, navigation bar e.t.c.)
+
+Page 2: Registration Page
+  This page displays the registration form to accepts new members into the association.
+  (Make use of buttons, text boxes, combo boxes, list boxes, e.t.c)
+  
+Page 3: Departmental Time Table for the semester
+  Replicate the departmental timetable for this current semester on this page
+* **Ensure all the pages link back to each other*
